@@ -38,7 +38,8 @@ I did not carry on to explore Tensorflow and configure my own GAN, but rather I 
 
 
 # Data (البيانات)
-![Screen_Shot_2020-06-20_at_10.33.26_PM](/uploads/0fb2606a2fe26eb1e8ebe275e8e33cd2/Screen_Shot_2020-06-20_at_10.33.26_PM.png)
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/69199435/96276954-efc34500-0fd3-11eb-88ef-4322e12f0d0e.png">
+
 
 The Beton Dataset is a collection of self-taken photos of  _Béton_ spontaneously found throughout the city of Beirut and its outskirts. 
 
