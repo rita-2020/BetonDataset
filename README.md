@@ -5,7 +5,8 @@ This is the pretrained model for  _Béton_, along with its raw image dataset. Th
 
 هذا النموذج طوّر خصيصاً لل"أسمنت" (Béton)، و يتضمن مجموعة بيانات خاصة بهذه المادة المستخدمة في البناء. لقد تم استعمال "التعلّم العميق" (Deep Learning) من خلال تقنية الpix2pix و هي مشفر تلقائي (Autoencoder) قائم على مبدأ الcGAN.
 
-![Screen_Shot_2020-06-22_at_4.37.33_PM](/uploads/e73e1afded2b7df1c04661ff5d512be7/Screen_Shot_2020-06-22_at_4.37.33_PM.png)
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/69199435/96276656-95c27f80-0fd3-11eb-86b7-b37dc675ea76.png">
+
 # Overview  (نظرة عامة)
 A collection of photographs showing found  _Béton_ have been stored in a dedicated image dataset. With this dataset, I am exploring ways that _‘Machine Learners’_ refers to humans as much as it does to computers. As a single _‘variable’_ which represents experimentation and fragmentation, _Béton_ can be computationally seen within the ‘Latent Space.’ In this hidden layer of machine learning, input data is broken down and apart, and tries to re-assemble itself by learning possible compositions. While the results are ambiguous, unsupervised learning does help understand, and predict unknown data better.
 
@@ -33,7 +34,7 @@ I did not carry on to explore Tensorflow and configure my own GAN, but rather I 
 
 **:من التشغيل الآلي ا التعاون:**
 في البداية، اردت بناء نموذج لشبكة خاصة بي مهمتها رقمنة عملية ادخال البيانات و تحويلها الى النموذج الكامن (Latent Sculpture). هذه النتيجة كانت ستكون خطوة ابعد من التصوّر المعاد بناؤه و القائم على ملفات (JPG.) بدلاً من (STL.). ملف الSTL. هو بطبيعته ثلاثي الابعاد 3D و يتم رصده و تمييزه في الطابعات ثلاثية الابعاد (3D Printers). كنت قد بدأت البحث في ال"Point Clouds" لجعل هذه العملية آلية و من ثم تحويل ملف الSTL. الى "اسمنت" من خلال ال3D Printer.
-لم اكمل مسعايَ هذا و الذي كان سيؤدي بي الى استكشاف الTensorflow لتهيئة و ترتيب الGAN الخاص بي، لكنني بدأت و درّبت نموذجاً خاصاً بي عن طريق الpix2pix و الذي يحتوي على خصائص معدَّة مسبقاً، و ذلك بإستخدام معرفتي لبرنامج Python من خلال المواد الخاصة بالتعلّم الآلي التي اخترتها في سنوات دراستي. مع بعض التعديلات، حافظت على فكرتي القائمة على تحويل البيانات المدخلة الى نتيجة ملموسة. بدلاً من طباعة الGAN بشكل اسمنتيّ ثلاثي الابعاد، ذهبت الى معمل لتصنيع قوالب الطوب و صنّعت (Molded) قالب اسمنت بنفسي و ذلك بإتباع تفاصيل التصميم الناتج عن النموذج الذي تحصّلت عليه من خلال التعلّم الآلي. فكرة تحويل شبكة عصبيّة (Neural Network) الى "أسمنت" يبقى كما كان مخططاً له منذ البداية لكن المعالجة من خلال بنائي و نحتي لتصميم خاص بي يحتاج الى تعاون اكبر مع الشبكة بدلاً من جعل المشروع مشَغّل آلياً بالكامل.
+لم اكمل مسعايَ هذا و الذي كان سيؤدي بي الى استكشاف الTensorflow لتهيئة و ترتيب الGAN الخاص بي، لكنني بدأت و درّبت نموذجاً خاصاً بي عن طريق الpix2pix و الذي يحتوي على خصائص معدَّة مسبقاً، و ذلك بإستخدام معرفتي لبرنامج Python من خلال المواد الخاصة بالتعلّم الآلي التي اخترتها في سنوات دراستي. مع بعض التعديلات، حافظت على فكرتي القائمة على تحويل البيانات المدخلة الى نتيجة ملموسة. بدلاً من طباعة الGAN بشكل اسمنتيّ ثلاثي الابعاد، ذهبت الى معمل لتصنيع قوالب الطوب و صنّعت (Molded) قالب اسمنت بنفسي و ذلك بإتباع تفاصيل التصميم الناتج عن النموذج الذي تحصّلت عليه من خلال التعلّم الآلي. فكرة تحويل شبكة عصبيّة (Neural Network) الى "أسمنت" يبقى كما كان مخططاً له منذ البداية لكن المعالجة من خلال بنائي و نحتي لتصميم خاص بي يحتاج الى تعاون اكبر مع الشبكة بدلاً من جعل المشروع مشَغّل آلياً بالكامل.
 
 
 # Data (البيانات)
