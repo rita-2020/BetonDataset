@@ -158,7 +158,7 @@ Put your image pair in its own folder ‘myimage’, and test the model as above
 ```
 This will result with a new file ’mytest’ that has an HTML file including an input/output/target image made by the model.
 
-![Screen_Shot_2020-06-22_at_3.55.21_PM](/uploads/66d223206ca11f790ce96ca51e3bfed9/Screen_Shot_2020-06-22_at_3.55.21_PM.png)
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/69199435/96277265-4e88be80-0fd4-11eb-95da-0e7e1cf947b4.png">
 
 
 ***Arabic Translation by Jad Chehimi*
