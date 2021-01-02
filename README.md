@@ -5,7 +5,7 @@ This is the pretrained model for  _Béton_, along with its raw image dataset. Th
 
 هذا النموذج طوّر خصيصاً لل"أسمنت" (Béton)، و يتضمن مجموعة بيانات خاصة بهذه المادة المستخدمة في البناء. لقد تم استعمال "التعلّم العميق" (Deep Learning) من خلال تقنية الpix2pix و هي مشفر تلقائي (Autoencoder) قائم على مبدأ الcGAN.
 
-<img width="263" alt="image" src="https://user-images.githubusercontent.com/69199435/96276656-95c27f80-0fd3-11eb-86b7-b37dc675ea76.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/69199435/96276656-95c27f80-0fd3-11eb-86b7-b37dc675ea76.png">
 
 # Overview  (نظرة عامة)
 A collection of photographs showing found  _Béton_ have been stored in a dedicated image dataset. With this dataset, I am exploring ways that _‘Machine Learners’_ refers to humans as much as it does to computers. As a single _‘variable’_ which represents experimentation and fragmentation, _Béton_ can be computationally seen within the ‘Latent Space.’ In this hidden layer of machine learning, input data is broken down and apart, and tries to re-assemble itself by learning possible compositions. While the results are ambiguous, unsupervised learning does help understand, and predict unknown data better.
