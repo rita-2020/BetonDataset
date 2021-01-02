@@ -171,7 +171,7 @@ This will result with a new file ’mytest’ that has an HTML file including an
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/69199435/96277265-4e88be80-0fd4-11eb-95da-0e7e1cf947b4.png">
 
 
-<span style="color:pink"> ***Arabic Translation by Jad Chehimi* </span>
+***Arabic Translation by Jad Chehimi* 
 
 
 
