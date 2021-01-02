@@ -3,7 +3,10 @@
 
 This is the pretrained model for  _Béton_, along with its raw image dataset. The model uses deep learning through pix2pix, a conditional generative adversarial network autoencoder.
 
-هذا النموذج طوّر خصيصاً لل"أسمنت" (Béton)، و يتضمن مجموعة بيانات خاصة بهذه المادة المستخدمة في البناء. لقد تم استعمال "التعلّم العميق" (Deep Learning) من خلال تقنية الpix2pix و هي مشفر تلقائي (Autoencoder) قائم على مبدأ الcGAN.
+<div dir="rtl">
+ هذا النموذج
+</div>
+
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/69199435/96276656-95c27f80-0fd3-11eb-86b7-b37dc675ea76.png">
 
